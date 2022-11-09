@@ -6,8 +6,8 @@
 int main()
 {
     std::cout << "Hello GitHub World!\n";
-    std::cout << "Hello Rocal コンクリプトBranch!\n";
-    std::cout << "Hello Rocal MasterBranch!\n";
+    std::cout << "Hello Rocal git コンクリプトBranch!\n";
+    std::cout << "Hello Rocal git MasterBranch!\n";
 
 }
 
